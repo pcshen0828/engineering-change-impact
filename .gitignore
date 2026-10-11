@@ -1,0 +1,17 @@
+# 二進位產物
+bin/
+api-service
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# 依賴快取 (雖然 Go 通常不放這裡，但以防萬一)
+vendor/
+
+# 作業系統暫存檔
+.DS_Store
+
+# 環境變數設定
+.env
